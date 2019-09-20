@@ -11,6 +11,7 @@ Snipets are written in multiple computer languages.
 - Math & Bit Operations
 - Functions
 - Caesar Cipher
+- Vigenere Cipher
 
 ### Languages<sup>`Used`</sup>
 - Golang
@@ -18,7 +19,7 @@ Snipets are written in multiple computer languages.
 - Python
 
 
-![](https://scontent.fisu6-1.fna.fbcdn.net/v/t1.0-9/70141570_2443057209309147_2756549472732315648_o.png?_nc_cat=110&_nc_oc=AQms16TJ353tmSnKL_nG0ov8PoCgq83ko3QzPAn-oPgDSZwcAn1z4BwMVNc-T2eYA5g&_nc_ht=scontent.fisu6-1.fna&oh=2051aa38da8c40ffea840e20f723d65d&oe=5E34FF4B)
+![](https://user-images.githubusercontent.com/5155661/65330848-3291ce00-dbc4-11e9-9767-fbb943a0b1d7.png)
 
 > Learn to code in different ways.
 

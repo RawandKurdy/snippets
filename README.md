@@ -24,7 +24,7 @@ Snipets are written in multiple computer languages.
 
 
 ----
-##Contact
-[R Tech](https://instagram.com/rawandtech) on Instagram
-[R Tech](https://facebook.com/rawandtech) on Facebook
+<b>Contact</b></br>
+[R Tech](https://instagram.com/rawandtech) on Instagram</br>
+[R Tech](https://facebook.com/rawandtech) on Facebook</br>
 [Mail me!](mailto:me@rawand.dev)

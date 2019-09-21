@@ -2,7 +2,7 @@
 Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://instagram.com/rawandtech) Instagram Account.
 Snipets are written in multiple computer languages.
 
-<b>Last Update</b> <sub>Sep 20th 2019</sub>
+<b>Last Update</b> <sub>Sep 21st 2019</sub>
 ### Includes
 - Creating An Array
 - Creating A Map
@@ -12,6 +12,7 @@ Snipets are written in multiple computer languages.
 - Functions
 - Caesar Cipher
 - Vigenere Cipher
+- Getting Inputs
 
 ### Languages<sup>`Used`</sup>
 - Golang

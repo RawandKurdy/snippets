@@ -2,18 +2,21 @@
 Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://instagram.com/rawandtech) Instagram Account.
 Snipets are written in multiple computer languages.
 
-<b>Last Update</b> <sub>Sep 21st 2019</sub>
+<b>Last Update</b> <sub>Sep 22nd 2019</sub>
 ### Includes
-- Creating An Array
-- Creating A Map
-- Getting Sum of an Array
-- Loops
-- Math & Bit Operations
-- Functions
-- Caesar Cipher
-- Vigenere Cipher
-- Getting Inputs
-
+- General
+    - Creating An Array (0)
+    - Creating A Map (1)
+    - Getting Sum of an Array (2)
+    - Loops (3)
+    - Math & Bit Operations (4)
+    - Functions (5)
+    - Getting Inputs (8)
+- Cryptography 
+    - Caesar Cipher (6)
+    - Vigenere Cipher (7)
+- From CodeSignal Problems
+    - First Duplicate - Google - Interview Question (9)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript

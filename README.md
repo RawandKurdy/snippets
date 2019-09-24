@@ -2,7 +2,8 @@
 Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://instagram.com/rawandtech) Instagram Account.
 Snipets are written in multiple computer languages.
 
-<b>Last Update</b> <sub>Sep 23rd 2019</sub>
+<b>Last Update</b> 
+<sub>Sep 25th 2019</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -18,6 +19,7 @@ Snipets are written in multiple computer languages.
 - From CodeSignal Problems
     - First Duplicate - Google - Interview Question (9)
     - First Not Repeating Character - Amazon - Interview Question (10)
+    - Amend The Sentence - Adobe - Interview Question (11)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript

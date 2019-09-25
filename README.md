@@ -20,6 +20,7 @@ Snipets are written in multiple computer languages.
     - First Duplicate - Google - Interview Question (9)
     - First Not Repeating Character - Amazon - Interview Question (10)
     - Amend The Sentence - Adobe - Interview Question (11)
+    - Rotate Image [Matrix] - Amazon, Microsoft, Apple Interview Question (12)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript

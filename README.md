@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Sep 25th 2019</sub>
+<sub>Sep 27th 2019</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -21,6 +21,7 @@ Snipets are written in multiple computer languages.
     - First Not Repeating Character - Amazon - Interview Question (10)
     - Amend The Sentence - Adobe - Interview Question (11)
     - Rotate Image [Matrix] - Amazon, Microsoft, Apple Interview Question (12)
+    - Sudoku Validity Check - Apple, Uber Interview Question (13)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript

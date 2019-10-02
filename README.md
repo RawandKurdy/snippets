@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Sep 29th 2019</sub>
+<sub>Oct 2nd 2019</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -23,13 +23,15 @@ Snipets are written in multiple computer languages.
     - Rotate Image [Matrix] - Amazon, Microsoft, Apple Interview Question (12)
     - Sudoku Validity Check - Apple, Uber Interview Question (13)
     - isCryptSolution - Palantir Technologies Interview Question (14)
+    - Sum In Range (O(n)) - Palantir Technologies Interview Question (15)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript
 - Python
+- Java <sup>Limited</sup>
 
 
-![](https://user-images.githubusercontent.com/5155661/65330848-3291ce00-dbc4-11e9-9767-fbb943a0b1d7.png)
+![https://rawand.dev](https://user-images.githubusercontent.com/5155661/65330848-3291ce00-dbc4-11e9-9767-fbb943a0b1d7.png)
 
 > Learn to code in different ways.
 

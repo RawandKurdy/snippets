@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Oct 3rd 2019</sub>
+<sub>Oct 5th 2019</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -25,6 +25,7 @@ Snipets are written in multiple computer languages.
     - isCryptSolution - Palantir Technologies Interview Question (14)
     - Sum In Range (O(n)) - Palantir Technologies Interview Question (15)
     - Array Max Consecutive Sum - Microsoft, LinkedIn, Amazon and Samsung Interview Question (16)
+    - Longest Subarray By Sum in an Array - Facebook and Palantir Technologies Interview Question (17)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript

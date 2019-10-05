@@ -55,5 +55,5 @@ func main() {
 	// Example
 	sum := 15
 	arr := []int{6, 7, 8, 1, 2, 3, 0, 4, 5, 0, 0, 9, 10}
-	fmt.Println(findLongestSubarrayBySum(sum, arr)) // [3, 10]
+	fmt.Println(findLongestSubarrayBySum(sum, arr)) // [4, 11]
 }

@@ -62,6 +62,6 @@ public class longestSubarray {
         int[] arr = {6, 7, 8, 1, 2, 3, 0 , 4, 5, 0, 0, 9, 10};
         String result = Arrays.toString(
             obj.findLongestSubarrayBySum(sum, arr));
-        System.out.println(result); // [3, 10]
+        System.out.println(result); // [4, 11]
     }
 }

@@ -44,4 +44,4 @@ def findLongestSubarrayBySum(sum, arr):
 # Example
 sum = 15
 arr = [6, 7, 8, 1, 2, 3, 0 , 4, 5, 0, 0, 9, 10]
-print(findLongestSubarrayBySum(sum, arr)) # [3, 10]
+print(findLongestSubarrayBySum(sum, arr)) # [4, 11]

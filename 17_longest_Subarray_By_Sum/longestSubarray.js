@@ -50,4 +50,4 @@ function findLongestSubarrayBySum(sum, arr) {
 // Example
 let sum = 15;
 let arr = [6, 7, 8, 1, 2, 3, 0 , 4, 5, 0, 0, 9, 10];
-console.log(findLongestSubarrayBySum(sum, arr)) // [3, 10]
+console.log(findLongestSubarrayBySum(sum, arr)) // [4, 11]

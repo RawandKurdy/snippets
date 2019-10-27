@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Oct 16th 2019</sub>
+<sub>Oct 27th 2019</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -27,6 +27,7 @@ Snipets are written in multiple computer languages.
     - Array Max Consecutive Sum - Microsoft, LinkedIn, Amazon and Samsung Interview Question (16)
     - Longest Subarray By Sum in an Array - Facebook and Palantir Technologies Interview Question (17)
     - Product Except Self (O(n)) - Microsoft, Apple, Facebook, LinkedIn and Amazon Interview Question (18)
+    - Minimum Substring With All Chars - Facebook Interview Question (19)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript

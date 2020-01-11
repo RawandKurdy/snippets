@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Nov 24th 2019</sub>
+<sub>Jan 11th 2020</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -30,11 +30,14 @@ Snipets are written in multiple computer languages.
     - Minimum Substring With All Chars - Facebook Interview Question (19)
 - From CodeSignal Challenges
     - Finding No. Of Numbers with K Divisors In Range (20)
+- Simple Games :D
+    - Guess the Random Number (21)
 ### Languages<sup>`Used`</sup>
 - Golang
-- JavaScript
+- JavaScript <sup>NodeJS</sup>
 - Python
 - Java <sup>Limited</sup>
+- C++ <sup>Limited</sup>
 
 
 ![https://rawand.dev](https://user-images.githubusercontent.com/5155661/65330848-3291ce00-dbc4-11e9-9767-fbb943a0b1d7.png)

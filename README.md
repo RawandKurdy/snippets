@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Jan 11th 2020</sub>
+<sub>Feb 20th 2020</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -30,6 +30,8 @@ Snipets are written in multiple computer languages.
     - Minimum Substring With All Chars - Facebook Interview Question (19)
 - From CodeSignal Challenges
     - Finding No. Of Numbers with K Divisors In Range (20)
+- From Google Hash Code
+    - More Pizza Hash Code<sup>2020</sup> Practice Problem (22)
 - Simple Games :D
     - Guess the Random Number (21)
 ### Languages<sup>`Used`</sup>

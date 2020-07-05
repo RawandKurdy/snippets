@@ -3,7 +3,7 @@ Contain codes snipets  that are occasionally posted on  [Rawand Tech](https://in
 Snipets are written in multiple computer languages.
 
 <b>Last Update</b> 
-<sub>Mar 12th 2020</sub>
+<sub>Jul 3rd 2020</sub>
 ### Includes
 - General
     - Creating An Array (0)
@@ -35,6 +35,8 @@ Snipets are written in multiple computer languages.
     - More Pizza Hash Code<sup>2020</sup> Practice Problem (22)
 - Simple Games :D
     - Guess the Random Number (21)
+- Hello Worlds
+    - Server (24)
 ### Languages<sup>`Used`</sup>
 - Golang
 - JavaScript <sup>NodeJS</sup>
